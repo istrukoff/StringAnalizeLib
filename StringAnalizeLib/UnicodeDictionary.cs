@@ -27,10 +27,15 @@ namespace StringAnalizeLib
             bags.Add("~euro", "\uD83D\uDCB6"); // купюра евро
             bags.Add("~thumbsup", "\uD83D\uDC4D"); // палец вверх (лайк)
             bags.Add("~fingertolink", "\uD83D\uDC47"); // указательный палец вниз
+            bags.Add("~fingertolink2", "\u261F"); // второй указательный палец вниз
             bags.Add("~smile", "\uD83D\uDE0A"); // улыбка
             bags.Add("~heart", "\u2665"); // сердечко
             bags.Add("~valentineheart", "\uD83D\uDC9D"); // сердечко в виде подарка
             bags.Add("~kiss", "\uD83D\uDE17"); // поцелуй
+            bags.Add("~girl", "\uD83D\uDC69"); // девушка
+            bags.Add("~lips", "\uD83D\uDC8B"); // губы
+            bags.Add("~doubleheart", "\uD83D\uDC95"); //  двойное сердце
+            bags.Add("~redarrowdown", "\uD83D\uDD3B"); // стрелка красная вниз
 
             return bags;
         }
